@@ -1,0 +1,3 @@
+- 👋Hi, I'm @ShadowDragon1934
+- 👀 I am interested in programming in C++ and CSS
+- 🌱 I'm currently learning Python
