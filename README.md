@@ -1,3 +1,3 @@
 - 👋Hi, I'm @ShadowDragon1934
-- 👀 I am interested in programming in C++ and CSS
-- 🌱 I'm currently learning Python
+- 👀 I am interested in programming in Javascript and Python
+- 🌱 I'm currently learning Java
